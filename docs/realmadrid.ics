@@ -232,7 +232,8 @@ BEGIN:VEVENT
 UID:espn-401882798@calendario-rm
 DTSTAMP:20261121T200000Z
 SUMMARY:🏟️ CEL - Celta de Vigo
-DESCRIPTION:LaLiga
+DESCRIPTION:LaLiga\nResultado: Real Madrid 2-1 Celta de Vigo\n⚽ 6' Pablo 
+ Durán (CEL)\n⚽ 66' Jude Bellingham (RMA)\n⚽ 85' Carlos Espí (RMA)
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
 LOCATION:Santiago Bernabéu\, Madrid
