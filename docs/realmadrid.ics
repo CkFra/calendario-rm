@@ -242,7 +242,10 @@ BEGIN:VEVENT
 UID:espn-401915298@calendario-rm
 DTSTAMP:20261124T200000Z
 SUMMARY:🏟️ PSV - PSV Eindhoven
-DESCRIPTION:Champions League · Fase liga
+DESCRIPTION:Champions League · Fase liga\nResultado: Real Madrid 5-1 PSV E
+ indhoven\n⚽ 32' Ivan Perisic (p.) (PSV)\n⚽ 50' Federico Valverde (RMA)
+ \n⚽ 60' Jude Bellingham (RMA)\n⚽ 64' Kylian Mbappé (RMA)\n⚽ 84' Kyl
+ ian Mbappé (RMA)\n⚽ 87' Vinícius Júnior (RMA)
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
 LOCATION:Santiago Bernabéu\, Madrid
